@@ -8,7 +8,7 @@ from scipy.integrate import quad
 print("Hello, EAE 130!")
 
 # Personal introduction 
-print("My name is <Your Name> and I am using <Mac or Windows>.")
+print("My name is Jacob George and I am using Windows.")
 
 # ---------------------------------------------------------------------
 # NUMPY TEST
